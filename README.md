@@ -56,7 +56,7 @@
 ### 💻 LeetCode
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/7aughing-devvdneygni?site=cn&theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+<img src="https://stats.justsong.cn/api/leetcode?username=7aughing-devvdneygni&cn=true&theme=dark" alt="LeetCode Stats" />
 </div>
 
 ### 📈 Metrics
