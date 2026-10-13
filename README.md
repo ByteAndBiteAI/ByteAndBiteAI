@@ -51,6 +51,10 @@
 
 </div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/ByteAndBiteAI/ByteAndBiteAI/main/github-metrics.svg" alt="metrics" />
+</div>
+
 ---
 
 <div align="center">
