@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="你好，我是 ByteAndBite，正在构建可靠的 AI Agent" />
+<img src="./assets/profile-hero.svg" width="100%" alt="你好，我是 干饭哲学家，正在构建可靠的 AI Agent" />
 
 <p>👋 你好，欢迎来到我的 GitHub 小角落。</p>
 
