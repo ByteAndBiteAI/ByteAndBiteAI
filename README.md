@@ -33,7 +33,7 @@
 
 ## TOOLBOX · 工具箱
 
-`Python` · `Git` · `Bash` · `LLM APIs` · `MCP`
+`Python` · `Git` · `Bash` · `LLM` · `MCP`
 
 ## CONTACT · 联系方式
 
