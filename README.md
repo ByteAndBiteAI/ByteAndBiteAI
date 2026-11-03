@@ -1,42 +1,47 @@
 <div align="center">
 
-# ByteAndBite
+<img src="./assets/profile-hero.svg" width="100%" alt="你好，我是 ByteAndBite，正在构建可靠的 AI Agent" />
 
-### Building reliable AI agents, one tool call at a time.
-
-M.S. student at the University of Science and Technology of China · Expected 2029
-
-[Explore my repositories](https://github.com/ByteAndBiteAI?tab=repositories)
+<p>👋 你好，欢迎来到我的 GitHub 小角落。</p>
 
 </div>
 
----
+## ABOUT ME · 关于我
 
-### Hi, I'm ByteAndBite 👋
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>✨ 一点自我介绍</h3>
+      <p>我是 <strong>ByteAndBite</strong>，中国科学技术大学硕士在读，预计 2029 年毕业。</p>
+      <p>我正在学习并构建 LLM Agent 系统，喜欢先把核心循环和工具调用弄明白，再逐步做好上下文管理、检索与评估。</p>
+      <p>目前关注 Agent 在真实任务中的可靠性：<strong>状态可恢复、工具边界清晰、回答有据可查</strong>。</p>
+      <p>🎯 希望寻找 <strong>AI Agent 工程方向</strong>的实习机会。</p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="./assets/profile-workspace.svg" width="100%" alt="Agent 工作台插画" />
+    </td>
+  </tr>
+</table>
 
-I work on the systems that make LLM agents useful beyond a demo: how they call tools, keep context, recover from interruptions, and show evidence for their answers. I like understanding the core loop before adding frameworks.
+## BUILD LOG · 正在探索
 
-### What I'm focused on
-
-| Area | Questions I'm exploring |
+| 方向 | 我在关注什么 |
 | :--- | :--- |
-| **Agent runtime** | How can tool calls, state, and checkpoints stay understandable and recoverable? |
-| **Retrieval & evaluation** | How do we find the right evidence and tell whether an answer is grounded? |
-| **Tool interfaces** | How can agents use external tools with clear boundaries and predictable behavior? |
+| **Agent Runtime** | 工具调用链、上下文管理、检查点与恢复 |
+| **RAG & Evaluation** | 检索质量、证据对齐、可复现的评估 |
+| **Tooling & MCP** | 清晰的工具协议与安全边界 |
 
-### Working with
+## TOOLBOX · 工具箱
 
-`Python` · `Git` · `LLM APIs` · `MCP`
+`Python` · `Git` · `Bash` · `LLM APIs` · `MCP`
 
-### Right now
-
-- Building and studying LLM agent systems, from the core loop to retrieval and evaluation.
-- Looking for AI agent engineering internship opportunities.
-
----
+## CONTRIBUTIONS · 提交轨迹
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteAndBiteAI/ByteAndBiteAI/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/ByteAndBiteAI/ByteAndBiteAI/output/github-contribution-grid-snake.svg" alt="GitHub 贡献轨迹" width="100%" />
+  </picture>
 
-*Make it work. Understand why. Make it reliable.*
-
+  <sub>持续构建，认真记录。 · Build, measure, improve.</sub>
 </div>
