@@ -1,66 +1,42 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ByteAndBite+%F0%9F%91%8B;AI+Agent+Engineer;LLM+Systems+%26+Agent+Harness;Build+principles-first)](https://github.com/ByteAndBiteAI)
+# ByteAndBite
 
-**AI Agent Engineer · M.S. Student at USTC (Class of 2029)**
+### Building reliable AI agents, one tool call at a time.
 
-[![GitHub followers](https://img.shields.io/github/followers/ByteAndBiteAI?style=social)](https://github.com/ByteAndBiteAI)
-[![Profile Views](https://komarev.com/ghpvc/?username=ByteAndBiteAI&color=blueviolet&style=flat)](https://github.com/ByteAndBiteAI)
+M.S. student at the University of Science and Technology of China · Expected 2029
+
+[Explore my repositories](https://github.com/ByteAndBiteAI?tab=repositories)
 
 </div>
 
 ---
 
-### About Me
+### Hi, I'm ByteAndBite 👋
 
-- 🎓 M.S. student at University of Science and Technology of China (expected 2029)
-- 🤖 Building LLM agent systems, with a focus on agent harness & runtime infrastructure
-- 🛠️ Principles-first: hand-rolling the core agent loop before reaching for frameworks
-- 💼 Open to AI Agent engineering internships
+I work on the systems that make LLM agents useful beyond a demo: how they call tools, keep context, recover from interruptions, and show evidence for their answers. I like understanding the core loop before adding frameworks.
 
-### Tech Stack
+### What I'm focused on
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Area | Questions I'm exploring |
+| :--- | :--- |
+| **Agent runtime** | How can tool calls, state, and checkpoints stay understandable and recoverable? |
+| **Retrieval & evaluation** | How do we find the right evidence and tell whether an answer is grounded? |
+| **Tool interfaces** | How can agents use external tools with clear boundaries and predictable behavior? |
 
-### Focus Areas
+### Working with
 
-- **Agent Core** — Function Calling, ReAct loops, planning patterns, memory systems
-- **RAG** — Chunking strategies, hybrid retrieval, reranking, evaluation
-- **Agent Harness** — Sandboxing, session persistence, checkpoint & resume
-- **Ecosystem** — MCP, tool use, agent orchestration frameworks
+`Python` · `Git` · `LLM APIs` · `MCP`
 
-### 📊 GitHub Stats
+### Right now
+
+- Building and studying LLM agent systems, from the core loop to retrieval and evaluation.
+- Looking for AI agent engineering internship opportunities.
+
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ByteAndBiteAI&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteAndBiteAI&layout=compact&theme=tokyonight&hide_border=true" />
+*Make it work. Understand why. Make it reliable.*
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteAndBiteAI&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ByteAndBiteAI&theme=tokyo-night&hide_border=true" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteAndBiteAI/ByteAndBiteAI/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ByteAndBiteAI/ByteAndBiteAI/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-### 💻 LeetCode
-
-<div align="center">
-<img src="https://stats.justsong.cn/api/leetcode?username=7aughing-devvdneygni&cn=true&theme=dark" alt="LeetCode Stats" />
-</div>
-
-### 📈 Metrics
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ByteAndBiteAI/ByteAndBiteAI/main/github-metrics.svg" alt="metrics" />
 </div>
