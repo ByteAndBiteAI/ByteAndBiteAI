@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="310" viewBox="0 0 520 310" role="img" aria-labelledby="title desc">
+  <title id="title">Agent 工作台插画</title>
+  <desc id="desc">深色屏幕显示 agent runtime、工具调用和证据检查</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#17263b"/></linearGradient></defs>
+  <rect width="520" height="310" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="518" height="308" rx="17" fill="none" stroke="#334155" stroke-width="2"/>
+  <circle cx="83" cy="72" r="28" fill="#1e3a5f"/><circle cx="83" cy="72" r="12" fill="#60a5fa"/>
+  <path d="M112 72h48M83 100v30" stroke="#60a5fa" stroke-width="3" stroke-linecap="round"/>
+  <rect x="158" y="59" width="274" height="181" rx="11" fill="#0b1220" stroke="#5b789a" stroke-width="2"/>
+  <path d="M158 91h274" stroke="#334155"/>
+  <circle cx="176" cy="75" r="5" fill="#fb7185"/><circle cx="192" cy="75" r="5" fill="#fbbf24"/><circle cx="208" cy="75" r="5" fill="#4ade80"/>
+  <text x="225" y="80" fill="#94a3b8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">agent.runtime</text>
+  <text x="179" y="123" fill="#a78bfa" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">01</text><text x="216" y="123" fill="#cbd5e1" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">reason()</text><circle cx="400" cy="118" r="6" fill="#4ade80"/>
+  <text x="179" y="161" fill="#a78bfa" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">02</text><text x="216" y="161" fill="#cbd5e1" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">call_tool()</text><circle cx="400" cy="156" r="6" fill="#4ade80"/>
+  <text x="179" y="199" fill="#a78bfa" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">03</text><text x="216" y="199" fill="#cbd5e1" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">check_evidence()</text><circle cx="400" cy="194" r="6" fill="#fbbf24"/>
+  <path d="M265 241v22m-62 0h124" stroke="#64748b" stroke-width="8" stroke-linecap="round"/>
+  <rect x="68" y="184" width="75" height="60" rx="8" fill="#23324a" stroke="#4b6a91"/><path d="M79 202h52M79 215h38M79 228h45" stroke="#60a5fa" stroke-width="4" stroke-linecap="round"/>
+  <rect x="449" y="187" width="27" height="44" rx="4" fill="#334155"/><path d="M455 200h15M455 210h15" stroke="#a78bfa" stroke-width="3" stroke-linecap="round"/>
+  <rect x="32" y="272" width="456" height="2" fill="#334155"/>
+</svg>
